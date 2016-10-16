@@ -1,2 +1,2 @@
 # first-project
-Simple hello world example
+# Simple hello world example
